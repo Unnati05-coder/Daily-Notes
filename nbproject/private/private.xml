@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/Addnotes.jsp</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/login2.jsp</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/img/note3.jpg</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/src/java/com/User/UserDetails.java</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/all_component/footer.jsp</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/index.jsp</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/home.jsp</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/img/p1.jpg</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/src/java/com/servlet/logoutServlet.java</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/src/java/com/DAO/UserDao.java</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/src/java/com/servlet/loginServlet.java</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/ShowNotes.jsp</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/src/java/com/servlet/UserServlet.java</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/register.jsp</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/src/java/com/User/post.java</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/edit.jsp</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/css/style.css</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/src/java/com/Db/Dbconnector.java</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/src/java/com/servlet/AddNotesServlet.java</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/all_component/navbar.jsp</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/web/all_component/allcss.jsp</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/src/java/com/DAO/PostDao.java</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/src/java/com/servlet/NotesEditServlet.java</file>
+            <file>file:/D:/Users/Unnati%20Dixit/Documents/NetBeansProjects/Enotes2/src/java/com/servlet/deleteServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
